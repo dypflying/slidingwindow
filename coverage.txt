@@ -1,0 +1,20 @@
+mode: atomic
+github.com/dypflying/slidingwindow/default_rate_limiter.go:59.95,62.20 1 7
+github.com/dypflying/slidingwindow/default_rate_limiter.go:66.2,72.8 1 7
+github.com/dypflying/slidingwindow/default_rate_limiter.go:62.20,64.3 1 0
+github.com/dypflying/slidingwindow/default_rate_limiter.go:77.48,80.53 2 4500000
+github.com/dypflying/slidingwindow/default_rate_limiter.go:84.2,84.6 1 4500000
+github.com/dypflying/slidingwindow/default_rate_limiter.go:80.53,82.3 1 7
+github.com/dypflying/slidingwindow/default_rate_limiter.go:84.6,90.76 3 4589341
+github.com/dypflying/slidingwindow/default_rate_limiter.go:90.76,101.41 3 988
+github.com/dypflying/slidingwindow/default_rate_limiter.go:106.4,106.76 1 988
+github.com/dypflying/slidingwindow/default_rate_limiter.go:101.41,102.29 1 97630
+github.com/dypflying/slidingwindow/default_rate_limiter.go:102.29,104.6 1 96642
+github.com/dypflying/slidingwindow/default_rate_limiter.go:106.76,110.13 4 988
+github.com/dypflying/slidingwindow/default_rate_limiter.go:113.9,116.27 2 4588353
+github.com/dypflying/slidingwindow/default_rate_limiter.go:121.4,122.76 2 4588353
+github.com/dypflying/slidingwindow/default_rate_limiter.go:116.27,118.5 1 0
+github.com/dypflying/slidingwindow/default_rate_limiter.go:118.10,118.41 1 4588353
+github.com/dypflying/slidingwindow/default_rate_limiter.go:118.41,120.5 1 317440
+github.com/dypflying/slidingwindow/default_rate_limiter.go:122.76,126.5 2 4500000
+github.com/dypflying/slidingwindow/default_rate_limiter.go:133.37,135.2 1 4500000
